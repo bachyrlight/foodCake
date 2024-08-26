@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(108, 151, 151);
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
+.description p{
+    text-align: center;
+    max-width: 500px;
+    display: inline-block;
+    padding: 15px 15px 15px 5px;
+
+}
+.container{
+    background-color: white;
+    margin: -20px 10% 50px 10%;
+    padding: 30px 10% 30px 10%;
+}
+div.designe{
+   text-align: center;
+   width: 100%;
+}
+p.design{
+    color:rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    display:inline-block;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 20px 20px 20px 20px;
+}
+.ligne{
+    width: 100px;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkslategrey;
+}
+.centre{
+    text-align: center;
+   width: 100%;
+   object-fit: cover;
+}
+div.blockImg{
+    position: relative;
+}
+table{
+    position:absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #69bab290;
+}
+td{
+    padding:15px 10px 15px 10px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+th{
+    color:white;
+}
+.fini1{
+   float: right;
+   width: 40%;
+   display: inline-block;
+  
+  }
+.fini2{
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    
+}
+*{
+    overflow: auto;
+}
